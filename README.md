@@ -20,7 +20,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-End-Wine-Quality-Prediction
+https://github.com/dishant2410/End-to-End-Wine-Quality-Prediction
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
